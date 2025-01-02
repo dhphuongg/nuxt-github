@@ -359,7 +359,7 @@
                 :size="40"
                 :max="2"
               />
-              <NBackTop :visibility-height="500">BackTop</NBackTop>
+              <NBackTop :visibility-height="500">⬆</NBackTop>
               <NDataTable
                 :columns="[
                   { key: 'label', title: 'Label' },

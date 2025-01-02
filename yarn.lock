@@ -4979,7 +4979,7 @@ vue@^3.5.13, vue@latest:
     "@vue/server-renderer" "3.5.13"
     "@vue/shared" "3.5.13"
 
-vueuc@^0.4.63:
+vueuc@^0.4.0, vueuc@^0.4.63:
   version "0.4.64"
   resolved "https://registry.yarnpkg.com/vueuc/-/vueuc-0.4.64.tgz#80dc210ba65c739ed65c717ebb145ba4b479201d"
   integrity sha512-wlJQj7fIwKK2pOEoOq4Aro8JdPOGpX8aWQhV8YkTW9OgWD2uj2O8ANzvSsIGjx7LTOc7QbS7sXdxHi6XvRnHPA==
